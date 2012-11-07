@@ -1,7 +1,7 @@
 {
   "name": "knockoutify",
   "description": "Knockout makes it easier to create rich, responsive UIs with JavaScript",
-  "version": "2.2.0-alpha.1",
+  "version": "2.2.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/domenic/knockoutify.git"
